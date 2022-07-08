@@ -4,6 +4,7 @@ public class Task11 {
 	/*
 	 * Write a program to print out duplicate elements from an Array of Strings
 	 */
+	public static void main (String[] args) {
 
 	String[] musicians = { "Vivaldi", "Mozart", "Haydn", "Bethoven", "Vivaldi", "Bach", "Paganini", "Mozart",
 			"Schubert", "Bach", "Bethoven", "List" };
@@ -36,6 +37,8 @@ public class Task11 {
 			}
 		}
 	}
+	}
 }
 
-}
+
+
